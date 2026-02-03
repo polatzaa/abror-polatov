@@ -1,0 +1,46 @@
+.section2{
+    display: flex;
+    padding-left: 200px;
+}
+.secimg2{
+    padding:0 115px 0 150px;
+}
+.section2 .sectext2{
+    padding-top: 50px;
+}
+.sectext2 h2{
+    font-family: GT Eesti Pro Display;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    line-height: 110%;
+    letter-spacing: 0%;
+    color: #141B41;
+}
+.sectext2 .smallp{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    align-items: center;
+    padding-top: 50px;
+}
+.sectext2 .smallp div p{
+    font-family: GT Eesti Pro Display;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 135%;
+    letter-spacing: 0%;
+    color: #141B41;
+
+}
+.sectext2 .smallp div small{
+    font-family: GT Eesti Pro Display;
+    font-weight: 350;
+    font-style: Light;
+    font-size: 18px;
+    line-height: 135%;
+    letter-spacing: 0%;
+    color: #72727E;
+}

@@ -1,0 +1,52 @@
+.section1{
+    display: flex;
+}
+.sectext{
+    padding: 170px 0 0 135px;
+    position: absolute;
+}
+.sectext h1{
+    font-family: GT Eesti Pro Display;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 40px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #141B41;
+}
+.sectext p{
+    font-family: GT Eesti Pro Display;
+    font-weight: 350;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #72727E;
+    padding:20px 0 40px 0
+}
+.sectext button span{
+    font-family: GT Eesti Pro Display;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #EEEEEE;
+}
+.sectext button{
+    width: 240px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: #446DF6;
+    border: none;
+
+}
+.sectext button:hover{
+    background-color: #365FCC;
+    cursor: pointer;
+}
+.section1 img{
+    width: 100%;
+    height: auto;
+    padding-left: 734px;
+}

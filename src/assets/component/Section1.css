@@ -1,0 +1,46 @@
+header{
+    padding: 14px 135px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+header nav{
+    overflow: hidden;
+    display: flex;
+    padding: 20px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 60px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-family: GT Eesti Pro Display;
+    font-weight: 350;
+    font-style: Light;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #72727E;
+}
+nav button span{
+    font-family: GT Eesti Pro Display;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #446DF6;
+}
+nav button{
+    border: 1px solid #E9ECF5;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 170px;
+    height: 50px;
+    background-color: #FFFFFF;
+
+
+}
